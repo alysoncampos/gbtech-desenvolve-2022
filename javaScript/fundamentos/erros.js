@@ -1,5 +1,11 @@
-//const numero;
+// // tipagem dinâmica
+// // untyped
+// let minhaVar = 256;
+// minhaVar = "Hello world";
 
-//console.log(numero
+// // erros
+// const numero = 1; // erro por não inicializar a const
 
-//console.log(minhaVar);
+// console.log(numero) // erro por não fechar o )
+
+// console.log(minhaVar); // erro por não definir a variável

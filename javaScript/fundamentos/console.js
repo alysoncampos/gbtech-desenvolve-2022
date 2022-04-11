@@ -1,11 +1,14 @@
 // log -> registro
 
-let minhaVar = true;
+// const minhaVar = true;
 
-/*console.log(245);
-console.log("eu sou um texto");
-console.log(minhaVar);*/
+// console.log(245);
+// console.log("eu sou um texto");
+// console.log(minhaVar);
 
-// error -> tratamento de erro!
 
-console.error('deu erro!')
+// // error -> tratamento de erro!
+// console.error('deu erro!')
+
+console.log('deu erro');
+console.error(new Error('deu erro'));
